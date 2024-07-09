@@ -1,0 +1,15 @@
+Factura Nº: 1
+Cliente: 
+Productos:
+  - Gorra, Precio: 14.99
+  - Camiseta, Precio: 19.99
+Total: 34.98
+
+Factura Nº: 2
+Cliente: 
+Productos:
+  - Gorra, Precio: 14.99
+  - Camiseta, Precio: 19.99
+  - Pantalon, Precio: 24.99
+Total: 59.97
+

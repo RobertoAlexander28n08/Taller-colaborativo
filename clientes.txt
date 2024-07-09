@@ -1,0 +1,12 @@
+Nombre: Johan
+Cédula: 1751018662
+Dirección: Villaflora
+Teléfono: 0999929222
+Nombre: maria
+Cédula: 1485962141
+Dirección: Chimbacalle
+Teléfono: 0986546954
+Nombre: hacherito
+Cédula: 1794894389
+Dirección: hacherite
+Teléfono: 2408767

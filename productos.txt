@@ -1,0 +1,12 @@
+Nombre: Camiseta
+Color: Rojo
+Talla: M
+Precio: 19.99
+Nombre: Pantalon
+Color: Negro
+Talla: M
+Precio: 24.99
+Nombre: Gorra
+Color: Verde
+Talla: M
+Precio: 14.99
